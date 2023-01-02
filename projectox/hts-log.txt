@@ -1,0 +1,18 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Sun, 20 Nov 2022 22:31:46 at http://www.ianonimo.com/
+(httrack http://www.ianonimo.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:36:26	Error: 	"Not Found" (404) at link www.ianonimo.com/assets/css/owl.video.play.png (from www.ianonimo.com/assets/css/owl.carousel.css)
+22:36:26	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://www.ianonimo.com/images/3000x2020.jpg (from www.ianonimo.com/assets/css/style-particles.css)
+22:36:26	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://www.ianonimo.com/images/3000x2000.jpg (from www.ianonimo.com/assets/css/style-particles.css)
+22:36:26	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://www.ianonimo.com/images/3000x2020.jpg (from www.ianonimo.com/assets/css/style-particles.css)
+22:36:26	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://www.ianonimo.com/images/3000x2000.jpg (from www.ianonimo.com/assets/css/style-particles.css)
+22:36:27	Error: 	"error:00000005:lib(0)::reason(5)" (-5) after 2 retries at link https://www.ianonimo.com/images/3000x2020.jpg (from www.ianonimo.com/assets/css/style-particles.css)
+22:36:27	Error: 	"error:00000005:lib(0)::reason(5)" (-5) after 2 retries at link https://www.ianonimo.com/images/3000x2000.jpg (from www.ianonimo.com/assets/css/style-particles.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 41 seconds : 47 links scanned, 39 files written (7779683 bytes overall) [7792006 bytes received at 27729 bytes/sec]
+(3 errors, 4 warnings, 0 messages)
